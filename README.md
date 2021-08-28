@@ -27,5 +27,5 @@ neyi değiştirmek istediğinizi tartışmak için bir konu açın.
 
 # Repository Image
 
-![Image](https://www.hizliresim.com/4meuhbz)
+![Image](https://i.hizliresim.com/4meuhbz.png)
 
